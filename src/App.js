@@ -42,9 +42,7 @@ function App() {
           ))}
         </div>
       </div>
-
     </div>
-    // <p>Test</p>
   );
 }
 
